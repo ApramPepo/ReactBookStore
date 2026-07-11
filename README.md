@@ -1,2 +1,5 @@
-# ReactBookStore
-A Client for the BookStore Project using TypeScript and React.
+# Client Frontend for the Bookstore App.
+
+Please refer back to the JavaBookStore project for more information.
+
+[Java Project](https://github.com/ApramPepo/JavaBookStore)
